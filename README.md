@@ -3,8 +3,7 @@
 🚀 Built with Next.js 14, TypeScript & Gemini AI
 
 📱 Overview
-
-Zero2Hero is an intelligent, AI-driven waste management platform designed to transform communities into cleaner, greener environments 🌍💚.
+Waste System is an intelligent, AI-driven waste management platform designed to transform communities into cleaner, greener environments 🌍💚.
 Users can report waste instantly, earn rewards for eco-friendly actions, and compete on a global leaderboard.
 
 The platform uses Gemini AI to verify waste images automatically, ensuring accuracy and fast processing ⚡🤖.
@@ -114,3 +113,4 @@ AI-driven MVP projects 🚀
 Hackathons & eco challenges 🌍
 
 Learning Next.js + full-stack development 📘
+By Achraf
